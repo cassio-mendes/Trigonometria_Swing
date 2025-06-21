@@ -3,6 +3,10 @@
 
 Este programa tem como objetivo implementar uma interface gráfica capaz de desenhar um triângulo conectando os 3 primeiros pontos onde o usuário clicar, além de mostrar o tamanho dos lados da figura, medidos em pixels, e o ângulo de cada ponto, aproximado em graus.
 
+## Exemplo de execução 🔍´
+
+![Exemplo de execução](https://github.com/cassio-mendes/Trigonometria_Swing/blob/main/exemplo.png)
+
 ## Bibliotecas usadas 📚
 
 - [Color](https://docs.oracle.com/javase/8/docs/api/java/awt/Color.html)
@@ -10,10 +14,6 @@ Este programa tem como objetivo implementar uma interface gráfica capaz de dese
 - [MouseEvent](https://docs.oracle.com/javase/8/docs/api/java/awt/event/MouseEvent.html)
 - [MouseListener](https://docs.oracle.com/javase/8/docs/api/java/awt/event/MouseListener.html)
 - [Swing](https://docs.oracle.com/javase/8/docs/api/)
-
-## Exemplo de execução 🔍´
-
-![Exemplo de execução](https://github.com/cassio-mendes/Trigonometria_Swing/blob/main/exemplo.png)
 
 ## Principais conceitos matemáticos usados 👨‍🏫
 
