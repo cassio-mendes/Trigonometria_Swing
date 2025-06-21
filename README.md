@@ -13,7 +13,7 @@ Este programa tem como objetivo implementar uma interface gráfica capaz de dese
 
 ## Exemplo de execução 🔍´
 
-![Exemplo de execução]()
+![Exemplo de execução](https://github.com/cassio-mendes/Trigonometria_Swing/blob/main/exemplo.png)
 
 ## Principais conceitos matemáticos usados 👨‍🏫
 
